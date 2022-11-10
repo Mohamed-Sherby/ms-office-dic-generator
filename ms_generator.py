@@ -1,5 +1,3 @@
-# read file 
-
 import os
 import sys
 
