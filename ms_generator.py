@@ -64,7 +64,7 @@ def generate_dic_file():
 
 def main():
     print("===========================")
-    print("= Hello I am Mohamed Sherby l0x0ffy :) =")
+    print("= Hello I am Mohamed Sherby - l0x0ffy :) =")
     print("=   Twitter: @l0x0ffy   =")
     print("===========================")
     
